@@ -1,0 +1,9 @@
+Summary
+
+1. An object is an instance of a class.
+2. Encapsulation provides the security that keeps data and methods safe from inadvertent changes.
+3. Inheritance is a parent-child relationship of a class which is mainly used for code reusability.
+4. Polymorphism definition is that Poly means many and morphos means forms.
+5. Using abstraction one can simulate real world objects.
+6. Abstraction provides advantage of code reuse
+7. Abstraction enables program open for extension
